@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/DineshrajAnandan/FrontEndMentorChallenges/tree/main/intro-component-with-signup-form](https://github.com/DineshrajAnandan/FrontEndMentorChallenges/tree/main/intro-component-with-signup-form)
-- Live Site URL: [https://dineshrajanandan.github.io/FrontEndMentorChallenges/intro-component-with-signup-form/index.html](https://dineshrajanandan.github.io/FrontEndMentorChallenges/intro-component-with-signup-form/index.html)
+- Solution URL: [https://github.com/lawalalao/formsdf](https://github.com/lawalalao/formsdf)
 
 ## My process
 
@@ -44,5 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@DineshrajAnandan](https://www.frontendmentor.io/profile/DineshrajAnandan)
-- Twitter - [@Dineshraj_A](https://www.twitter.com/Dineshraj_A)
+- Twitter - [@lawalalao](https://www.twitter.com/AdechinaAlao)
